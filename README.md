@@ -1,0 +1,2 @@
+# hello-jira-cloud
+repository to test the integration of github and jira cloud
